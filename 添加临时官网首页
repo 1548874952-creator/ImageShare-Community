@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>影像分享社区 - 摄影摄像分享平台</title>
+    <meta name="description" content="影像分享社区官方页面，一款正在开发中的专业摄影作品分享社区。">
+    <style>
+        body { font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 20px; text-align: center; }
+        .logo { width: 100px; height: 100px; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); border-radius: 20px; margin: 0 auto 20px; }
+        h1 { color: #333; }
+        .status { background-color: #f0f8ff; padding: 15px; border-radius: 10px; margin: 20px 0; border-left: 5px solid #2575fc; }
+    </style>
+</head>
+<body>
+    <div class="logo"></div>
+    <h1>影像分享社区</h1>
+    <p><strong>摄影与摄像爱好者的专属分享平台</strong></p>
+    <p>我们正在全力开发一款高质量的影像分享社区应用，支持从专业设备直接上传照片与视频，帮助创作者展示作品、交流技艺。</p>
+
+    <div class="status">
+        <p>📱 <strong>应用状态：</strong>当前版本正处于开发测试阶段。</p>
+        <p>我们正在对接微信登录等核心功能，即将与大家见面！</p>
+    </div>
+
+    <p>感谢关注！</p>
+    <hr>
+    <p style="color: #666; font-size: 0.9em;">此为产品开发测试期间的临时介绍页面。</p>
+</body>
+</html>
